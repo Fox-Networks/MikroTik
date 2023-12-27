@@ -1,4 +1,4 @@
-# MikroTik
+# 🎱 MikroTik 🎱
 Script MikroTik
 
 
